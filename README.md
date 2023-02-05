@@ -17,7 +17,7 @@ optimized version of the first model created. along with the written analysis (R
 
 
 #### Results
-
+After creating the first model the accuracy score appeared to be low. Another model in Alphabet_Soup_Charity_Optimization will add extra hidden layers to attempt to reach a higher accuracy with this model. 
 
 ### Summary
 
